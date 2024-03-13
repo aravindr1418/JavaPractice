@@ -1,4 +1,4 @@
-package staticblock;
+package stacticAccess;
 
 public class StaticBlock {
 
