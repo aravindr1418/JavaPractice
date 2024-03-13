@@ -1,5 +1,5 @@
 package stacticAccess;
-
+//outer classes cannot be static.
 public class InnerClass {
     static class Test{
         String name;
